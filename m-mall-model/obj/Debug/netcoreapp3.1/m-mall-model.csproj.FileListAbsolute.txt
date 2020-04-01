@@ -1,0 +1,8 @@
+D:\open-source\m-mall-api\m-mall-model\bin\Debug\netcoreapp3.1\m-mall-model.deps.json
+D:\open-source\m-mall-api\m-mall-model\bin\Debug\netcoreapp3.1\m-mall-model.dll
+D:\open-source\m-mall-api\m-mall-model\bin\Debug\netcoreapp3.1\m-mall-model.pdb
+D:\open-source\m-mall-api\m-mall-model\obj\Debug\netcoreapp3.1\m-mall-model.AssemblyInfoInputs.cache
+D:\open-source\m-mall-api\m-mall-model\obj\Debug\netcoreapp3.1\m-mall-model.AssemblyInfo.cs
+D:\open-source\m-mall-api\m-mall-model\obj\Debug\netcoreapp3.1\m-mall-model.dll
+D:\open-source\m-mall-api\m-mall-model\obj\Debug\netcoreapp3.1\m-mall-model.pdb
+D:\open-source\m-mall-api\m-mall-model\obj\Debug\netcoreapp3.1\m-mall-model.csprojAssemblyReference.cache
