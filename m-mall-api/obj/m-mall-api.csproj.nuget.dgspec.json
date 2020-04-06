@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\open-source\\m-mall-api\\m-mall-api\\m-mall-api.csproj": {}
+    "C:\\code\\weixin\\weixin_api\\m-mall-api\\m-mall-api.csproj": {}
   },
   "projects": {
-    "D:\\open-source\\m-mall-api\\m-mall-api\\m-mall-api.csproj": {
+    "C:\\code\\weixin\\weixin_api\\m-mall-api\\m-mall-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\open-source\\m-mall-api\\m-mall-api\\m-mall-api.csproj",
+        "projectUniqueName": "C:\\code\\weixin\\weixin_api\\m-mall-api\\m-mall-api.csproj",
         "projectName": "m-mall-api",
-        "projectPath": "D:\\open-source\\m-mall-api\\m-mall-api\\m-mall-api.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\open-source\\m-mall-api\\m-mall-api\\obj\\",
+        "projectPath": "C:\\code\\weixin\\weixin_api\\m-mall-api\\m-mall-api.csproj",
+        "packagesPath": "C:\\Users\\wangjialei\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\weixin\\weixin_api\\m-mall-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wangjialei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,13 +25,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\mypackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj": {
-                "projectPath": "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj"
+              "C:\\code\\weixin\\weixin_api\\m-mall-core\\m-mall-core.csproj": {
+                "projectPath": "C:\\code\\weixin\\weixin_api\\m-mall-core\\m-mall-core.csproj"
+              },
+              "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj": {
+                "projectPath": "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj"
               }
             }
           }
@@ -88,20 +92,20 @@
         }
       }
     },
-    "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj": {
+    "C:\\code\\weixin\\weixin_api\\m-mall-core\\m-mall-core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj",
-        "projectName": "m-mall-model",
-        "projectPath": "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\open-source\\m-mall-api\\m-mall-model\\obj\\",
+        "projectUniqueName": "C:\\code\\weixin\\weixin_api\\m-mall-core\\m-mall-core.csproj",
+        "projectName": "m-mall-core",
+        "projectPath": "C:\\code\\weixin\\weixin_api\\m-mall-core\\m-mall-core.csproj",
+        "packagesPath": "C:\\Users\\wangjialei\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\weixin\\weixin_api\\m-mall-core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wangjialei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,6 +113,73 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\mypackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj": {
+                "projectPath": "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj",
+        "projectName": "m-mall-model",
+        "projectPath": "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj",
+        "packagesPath": "C:\\Users\\wangjialei\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\weixin\\weixin_api\\m-mall-model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangjialei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\mypackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

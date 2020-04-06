@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj": {}
+    "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj": {}
   },
   "projects": {
-    "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj": {
+    "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj",
+        "projectUniqueName": "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj",
         "projectName": "m-mall-model",
-        "projectPath": "D:\\open-source\\m-mall-api\\m-mall-model\\m-mall-model.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\open-source\\m-mall-api\\m-mall-model\\obj\\",
+        "projectPath": "C:\\code\\weixin\\weixin_api\\m-mall-model\\m-mall-model.csproj",
+        "packagesPath": "C:\\Users\\wangjialei\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\weixin\\weixin_api\\m-mall-model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wangjialei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\mypackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -18,7 +18,12 @@ namespace m_mall_api.Controllers
             {
                 Data = new
                 {
-                    Items =new List<ClassifyModel> { new ClassifyModel { Remark="test",Name="test"} },
+                    Items =new List<ClassifyModel> {
+                        new ClassifyModel { Remark="谷物类",Name="谷物类",_id=1},
+                        new ClassifyModel { Remark="糯米类",Name="糯米类",_id=2},
+                        new ClassifyModel { Remark="五谷杂粮类",Name="五谷杂粮类",_id=3},
+                        new ClassifyModel { Remark="东北大米",Name="东北大米",_id=4}
+                    },
                     Paginate=0,
                     Number=10
                 }

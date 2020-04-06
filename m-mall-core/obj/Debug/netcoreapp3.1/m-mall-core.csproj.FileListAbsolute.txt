@@ -1,0 +1,11 @@
+C:\code\weixin\weixin_api\m-mall-core\bin\Debug\netcoreapp3.1\m-mall-core.deps.json
+C:\code\weixin\weixin_api\m-mall-core\bin\Debug\netcoreapp3.1\m-mall-core.dll
+C:\code\weixin\weixin_api\m-mall-core\bin\Debug\netcoreapp3.1\m-mall-model.dll
+C:\code\weixin\weixin_api\m-mall-core\bin\Debug\netcoreapp3.1\m-mall-model.pdb
+C:\code\weixin\weixin_api\m-mall-core\obj\Debug\netcoreapp3.1\m-mall-core.csprojAssemblyReference.cache
+C:\code\weixin\weixin_api\m-mall-core\obj\Debug\netcoreapp3.1\m-mall-core.AssemblyInfoInputs.cache
+C:\code\weixin\weixin_api\m-mall-core\obj\Debug\netcoreapp3.1\m-mall-core.AssemblyInfo.cs
+C:\code\weixin\weixin_api\m-mall-core\obj\Debug\netcoreapp3.1\m-mall-core.csproj.CopyComplete
+C:\code\weixin\weixin_api\m-mall-core\bin\Debug\netcoreapp3.1\m-mall-core.pdb
+C:\code\weixin\weixin_api\m-mall-core\obj\Debug\netcoreapp3.1\m-mall-core.dll
+C:\code\weixin\weixin_api\m-mall-core\obj\Debug\netcoreapp3.1\m-mall-core.pdb
